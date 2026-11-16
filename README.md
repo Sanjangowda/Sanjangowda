@@ -1,81 +1,124 @@
 
-# Hi there, I'm Sanjan Gowda 👋
+<h1 align="center">Hi there 👋, I'm Sanjan Gowda</h1>
 
-Computer Science and Engineering graduate with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building practical applications, exploring intelligent systems, and transforming data into meaningful insights.
+<h3 align="center">Computer Science Engineer | AI & Machine Learning Enthusiast</h3>
 
----
+<p align="center">
+  Passionate about Artificial Intelligence, Machine Learning, Data Science, and building practical AI solutions.
+</p>
 
-### 🔭 What I'm Working On
-
-- 🤖 **Automated ML Platform** — Developing a no-code platform that automates data preprocessing, model training, performance evaluation, and predictions.
-- 📊 **Data Analytics** — Exploring real-world datasets and developing interactive dashboards using Python, SQL, Excel, and Power BI.
-- 🧠 **Artificial Intelligence & Machine Learning** — Strengthening my knowledge of machine learning algorithms, predictive modelling, and AI applications.
-- 🚀 **Continuous Learning** — Exploring new technologies and building projects to improve my software development and analytical skills.
-
-### 🎓 Education
-
-- **Bachelor of Engineering in Computer Science and Engineering**
-  - Sampoorna Institute of Technology & Research
-  - Visvesvaraya Technological University (VTU)
-  - CGPA: 8.99/10 (2026)
-
-### 💼 Experience
-
-- **MindMatrix.io — Android App Development Intern**
-  - Worked on Arogya Sahaya, a digital health companion application designed for elderly people in rural Karnataka.
-  - Developed application features using Kotlin and Jetpack Compose.
-  - Gained experience with Firebase, Room Database, Google Cloud, and AI fundamentals.
-  - Worked in an Agile development environment.
-
-### 🚀 Featured Projects
-
-- **Automated ML Platform** — A no-code machine learning platform built using Python, Streamlit, and Scikit-learn.
-- **Sales Insights** — Data analytics project focused on extracting meaningful business insights.
-- **HR Data Analytics** — HR analytics project exploring workforce data and visualizing key metrics.
-- **Cricket Analytics** — Data-driven cricket analysis and visualization project.
-- **Arogya Sahaya** — Android application developed as part of my internship.
-
-### 💬 Ask Me About
-
-> Python · SQL · Machine Learning · Data Analytics · Power BI · Android Development · Artificial Intelligence
-
-### 📫 How to Reach Me
-
-- **LinkedIn:** [Sanjan Gowda](https://www.linkedin.com/in/sanjan-gowda-a35611271/)
-- **GitHub:** [Sanjangowda](https://github.com/Sanjangowda)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjan-gowda-a35611271/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sanjangowda">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🎓 About Me
+
+- 🎓 B.E. in Computer Science and Engineering (2026)
+- 🏫 Visvesvaraya Technological University (VTU)
+- 📊 CGPA: 8.99/10
+- 🤖 Interested in AI, Machine Learning and Data Science
+- 💡 Enjoy building real-world applications and data-driven solutions
+
+---
+
+### 💻 I'm Currently Working With ...
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
 **Data Science & Machine Learning**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-**Data Visualization & Development**
+**Development & Data Visualization**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
-*Always curious. Always learning. Always building.* 🚀
+### 🚀 I'm Currently Building ...
+
+**Automated ML Platform**
+
+A no-code Machine Learning platform that allows users to upload datasets, select a target column and algorithm, automatically preprocess data, train models, evaluate performance, and generate predictions.
+
+**Data Analytics Projects**
+
+- Sales Insights
+- HR Data Analytics
+- Cricket Analytics
+
+**Arogya Sahaya**
+
+An Android-based digital health companion developed during my internship at MindMatrix.io, using Kotlin, Jetpack Compose, Firebase, and Room Database.
+
+---
+
+### 🌱 I'm Currently Learning ...
+
+<p>
+  <img src="https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-00A98F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-3776AB?style=for-the-badge" />
+</p>
+
+---
+
+### 💬 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science & Analytics
+- Predictive Modelling
+- Software Development
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/Sanjangowda">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjan-gowda-a35611271/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<h4 align="center">✨ Always Learning </h4>
