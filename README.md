@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 I'm Currently Working With ...
+### 💻 When I build, I rely on
 
 **Programming Languages**
 
@@ -71,7 +71,7 @@
 
 ---
 
-### 🚀 I'm Currently Building ...
+### 🚀 What I've Built
 
 **Automated ML Platform**
 
@@ -89,7 +89,7 @@ An Android-based digital health companion developed during my internship at Mind
 
 ---
 
-### 🌱 I'm Currently Learning ...
+### 🌱 I'm Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -97,16 +97,6 @@ An Android-based digital health companion developed during my internship at Mind
   <img src="https://img.shields.io/badge/MACHINE_LEARNING-00A98F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DATA_SCIENCE-3776AB?style=for-the-badge" />
 </p>
-
----
-
-### 💬 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science & Analytics
-- Predictive Modelling
-- Software Development
 
 ---
 
